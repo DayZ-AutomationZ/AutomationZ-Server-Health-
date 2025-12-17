@@ -1,18 +1,19 @@
 {
     "watches": [
         {
-            "name": "DayZ script.log",
+            "name": "RESTART LOG",
             "enabled": true,
             "source": "ftp",
             "path": "/restart.log",
             "kind": "log"
         },
         {
-            "name": "DayZ server_console.log",
+            "name": "server_console LOG",
             "enabled": false,
             "source": "ftp",
             "path": "profiles/server_console.log",
             "kind": "log"
         }
     ]
+
 }
