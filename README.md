@@ -41,6 +41,12 @@ You only get notified when something important changes.
 
 ---
 
+The application automatically creates its working folders
+(logs, reports, log_cache) on startup.
+These folders store runtime logs, detected events, and cached
+log positions to ensure only new issues are reported.
+
+
 ## License
 
 MIT License
