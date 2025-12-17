@@ -1,0 +1,20 @@
+{
+    "events": [
+        {
+            "ts": "2025-12-17T22:02:17",
+            "watch": "DayZ script.log",
+            "source": "ftp",
+            "path": "/restart.log",
+            "errors": 134,
+            "warnings": 0,
+            "crash_hits": 0,
+            "sample": [
+                "Sat, 22 Nov 2025 01:59:03 +0100 [Nitrado\\WindowsBackend\\Games\\dayzstandalone] [DayZTypesLimiter] Error parsing types.xml: Invalid XML",
+                "Sat, 22 Nov 2025 01:59:03 +0100 [Nitrado\\WindowsBackend\\Games\\dayzstandalone] [DayZTypesLimiter] Error parsing types.xml: (line: 10, column: 3): Double hyphen within comment: <!--   CURRENCY ITEMS (LESS RARE)",
+                "Sat, 22 Nov 2025 02:06:39 +0100 [Nitrado\\WindowsBackend\\Games\\dayzstandalone] [DayZTypesLimiter] Error parsing types.xml: Invalid XML",
+                "Sat, 22 Nov 2025 02:06:39 +0100 [Nitrado\\WindowsBackend\\Games\\dayzstandalone] [DayZTypesLimiter] Error parsing types.xml: (line: 10, column: 3): Double hyphen within comment: <!--   CURRENCY ITEMS (LESS RARE)",
+                "Sat, 22 Nov 2025 02:17:02 +0100 [Nitrado\\WindowsBackend\\Games\\dayzstandalone] [DayZTypesLimiter] Error parsing types.xml: Invalid XML"
+            ]
+        }
+    ]
+}
