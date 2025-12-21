@@ -54,6 +54,18 @@ MIT License
 ## Credits
 
 ---
+🧩 Part of AutomationZ Control Center
+This tool is part of the AutomationZ Admin Toolkit:
+
+- AutomationZ Uploader
+- AutomationZ Scheduler
+- AutomationZ Server Backup Scheduler
+- AutomationZ Server Health
+- AutomationZ Config Diff
+- AutomationZ Admin Orchestrator
+- AutomationZ Log Cleanup Scheduler
+
+Together they form a complete server administration solution.
 
 ### 💚 Support the project
 
